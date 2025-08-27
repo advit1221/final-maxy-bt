@@ -1,0 +1,3 @@
+[submodule "path/inside/his-repo"]
+	path = path/inside/his-repo
+	url = https://github.com/advit1221/final-maxy-bt.git
